@@ -15,12 +15,8 @@ Stocks App is a mobile application built with React Native that allows users to 
 
 ## Usage
 
-1. Start the development server: `expo start` 
-    - For android: `expo start --android`,
-    - For ios: `expo start --ios`,
-    - For web: `expo start --web` 
+1. Start the development server: `expo start`
+   - For android: `expo start --android`,
+   - For ios: `expo start --ios`,
+   - For web: `expo start --web`
 2. Use the Expo client app or an emulator to run the app on your device.
-
-## Contributing
-
-Contributions are welcome! Please follow the guidelines outlined in CONTRIBUTING.md.
